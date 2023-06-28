@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/components/GoodsList.scss"],"names":[],"mappings":"AACE,iBACE,SAAU,CACX,mBAEC,WAAY,CACb,kBAEC,UAAW","file":"main.7c70e8fd.chunk.css","sourcesContent":[".good-color {\n  &--red {\n    color: red;\n  }\n  &--green {\n    color: green;\n  }\n  &--blue {\n    color: blue;\n  }\n}\n"]}
